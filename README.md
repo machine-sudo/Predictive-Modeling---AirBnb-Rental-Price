@@ -1,0 +1,2 @@
+# Predictive-Modeling---AirBnb-Rental-Price
+In this project, I performed exploratory data analysis on a data set contained over 22,552 Airbnb listings. I created multiple features base on existing data set to achieve higher accuracy in this machine learning model. My target is to predict future Airbnb listing price. I applied XGBoost for this predictive modeling project and tune hyperparameters using GridSearch.
